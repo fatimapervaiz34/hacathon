@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+
+    padding-left: 600px;
+    padding-top: 100px
+}
+
+
+.header9 input {
+
+
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header9 p {
+    padding-top: 30px;
+}
+
+.btn8 {
+    padding-top: 30px;
+}
+
+.btn8 button {
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFA52F;
+    color: white;
+}

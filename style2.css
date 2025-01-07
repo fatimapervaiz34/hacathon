@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    padding-left: 600px;
+}
+
+.header1  input{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.header2 input{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.header2 p{
+    padding-top: 30px;
+}
+.image {
+    padding-top:20px ;
+}
+.image1{
+    padding-top: 20px;
+}
+.btn{
+    padding-top: 30px;
+}
+.btn button{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFA52F;
+    color: white;
+}
+.header1 h1{
+    font-size: 50px;
+    
+}
+.header p{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.header2 h1{
+    font-size: 50px;
+}
